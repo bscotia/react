@@ -1,0 +1,11 @@
+.react-chat-display-scroll {
+    width: 600px;
+    height: 200px;
+    overflow-y: scroll;
+    overflow-x:hidden;
+}
+
+.react-chat-display-entry {
+    font-family: "Times New Roman", Times, serif;
+}
+
